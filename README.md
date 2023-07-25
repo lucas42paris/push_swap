@@ -34,7 +34,7 @@ __How to test the program?__
 * The result corresponds to the sequence of instructions allowing the fastest and most efficient sorting of the given list of integers.
 
 __Acquired skills__ :
-* Operation of linked lists
+* Implementation of linked lists
 * Implement a fast and efficient sorting algorithm
 
 ![Rating](rating.png)
