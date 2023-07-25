@@ -2,10 +2,8 @@
 
 🇫🇷
 
-Le projet push_swap est un défi d'algorithmie qui implique de trier des données dans une pile en utilisant un ensemble limité d’instructions.
-
-Le jeu se compose de deux piles, a et b, où a contient une série de nombres aléatoires non dupliqués et b est initialement vide.
-
+Le projet push_swap est un défi d'algorithmie qui implique de trier des données dans une pile en utilisant un ensemble limité d’instructions.  
+Le jeu se compose de deux piles, a et b, où a contient une série de nombres aléatoires non dupliqués et b est initialement vide.  
 L'objectif est de trier les nombres dans la pile a dans l'ordre croissant en utilisant un certain nombre d'opérations spécifiées. 
 
 Ces opérations incluent l'échange (swap), le déplacement (push), la rotation (rotate) et la rotation inverse (reverse rotate) qui peuvent être appliqués à l'une ou l'autre pile ou aux deux en même temps.
