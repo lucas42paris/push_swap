@@ -35,6 +35,6 @@ __How to test the program?__
 
 __Acquired skills__ :
 * Implementation of linked lists
-* Implement a fast and efficient sorting algorithm
+* Build a fast and efficient sorting algorithm
 
 ![Rating](rating.png)
