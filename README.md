@@ -10,6 +10,8 @@ Ces opérations incluent l'échange (swap), le déplacement (push), la rotation 
 
 Le programme push_swap prend en paramètre la pile a sous la forme d'une liste d'entiers. Il doit alors afficher la séquence la plus courte d'instructions qui permettra de trier la pile a. L'efficacité du tri est jugée en fonction du nombre d'instructions utilisées.
 
+Le code doit respecter la Norme imposée par 42 (voir pdf).
+
 __Comment tester le programme ?__
 * Exécuter la commande “make” à la racine du répertoire
 * Puis entrer une liste d’entiers à trier. Par exemple “./push_swap 1243 432 32”
@@ -27,6 +29,8 @@ The goal is to sort the numbers in stack a in ascending order using a number of 
 These operations include swap, push, rotate, and reverse rotate which can be applied to either stack or both at the same time.
 
 The push_swap program takes as a parameter the stack a in the form of a list of integers. It must then display the shortest sequence of instructions which will make it possible to sort the stack a. Sorting efficiency is judged by the number of instructions used.
+
+The code must respect the Norm imposed by 42 (see pdf).
 
 __How to test the program?__
 * Execute the “make” command at the root of the directory
