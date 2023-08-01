@@ -2,7 +2,7 @@
 
 🇫🇷
 
-Le projet push_swap est un défi d'algorithmie qui implique de trier des données dans une pile en utilisant un ensemble limité d’instructions.  
+Le projet "push_swap" est un défi d'algorithmie qui implique de trier des données dans une pile en utilisant un ensemble limité d’instructions.  
 Le jeu se compose de deux piles, a et b, où a contient une série de nombres aléatoires non dupliqués et b est initialement vide.  
 L'objectif est de trier les nombres dans la pile a dans l'ordre croissant en utilisant un certain nombre d'opérations spécifiées. 
 
@@ -23,7 +23,7 @@ __Compétences acquises__ :
 
 🇺🇸
 
-The push_swap project is an algorithmic challenge that involves sorting data into a stack using a limited set of instructions.  
+The "push_swap" project is an algorithmic challenge that involves sorting data into a stack using a limited set of instructions.  
 The game consists of two stacks, a and b, where a contains a series of non-duplicate random numbers and b is initially empty.  
 The goal is to sort the numbers in stack a in ascending order using a number of specified operations.  
 These operations include swap, push, rotate, and reverse rotate which can be applied to either stack or both at the same time.
