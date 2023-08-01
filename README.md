@@ -21,7 +21,7 @@ __Compétences acquises__ :
 * Fonctionnement des listes chaînées
 * Implémenter un algorithme de tri rapide et efficace
 
-🇬🇧
+🇺🇸
 
 The push_swap project is an algorithmic challenge that involves sorting data into a stack using a limited set of instructions.  
 The game consists of two stacks, a and b, where a contains a series of non-duplicate random numbers and b is initially empty.  
