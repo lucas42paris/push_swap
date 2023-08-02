@@ -13,14 +13,16 @@ Le programme push_swap prend en paramètre la pile a sous la forme d'une liste d
 
 Le code doit respecter la Norme imposée par 42 (voir pdf).
 
-__Comment tester le programme ?__
-* Exécuter la commande `make` à la racine du répertoire
-* Puis entrer une liste d’entiers à trier. Par exemple `./push_swap 1243 432 32`
-* Le résultat correspond à la suite d’instructions permettant de trier le plus rapidement et efficacement la liste d’entiers donnée.
+__Notions importantes__ :
 
-__Compétences acquises__ :
 * Fonctionnement des listes chaînées
 * Implémenter un algorithme de tri rapide et efficace
+
+__Comment tester le programme ?__
+
+* Exécuter la commande `make` à la racine du répertoire.
+* Puis entrer une liste d’entiers à trier. Par exemple `./push_swap 1243 432 32`
+* Le résultat correspond à la suite d’instructions permettant de trier le plus rapidement et efficacement la liste d’entiers donnée.
 
 🇺🇸
 
@@ -34,13 +36,15 @@ The push_swap program takes as a parameter the stack a in the form of a list of 
 
 The code must respect the Norm imposed by 42 (see pdf).
 
+__Important concepts__ :
+
+* Implementation of linked lists.
+* Build a fast and efficient sorting algorithm.
+
 __How to test the program?__
-* Execute the `make` command at the root of the directory
+
+* Execute the `make` command at the root of the directory.
 * Then enter a list of integers to sort. For example `./push_swap 1243 432 32`
 * The result corresponds to the sequence of instructions allowing the fastest and most efficient sorting of the given list of integers.
-
-__Acquired skills__ :
-* Implementation of linked lists
-* Build a fast and efficient sorting algorithm
 
 ![Rating](rating.png)
