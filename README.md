@@ -15,8 +15,8 @@ Le code doit respecter la Norme imposée par 42 (voir pdf).
 
 __Notions importantes__ :
 
-* Fonctionnement des listes chaînées
-* Implémenter un algorithme de tri rapide et efficace
+* Fonctionnement des listes chaînées.
+* Implémenter un algorithme de tri rapide et efficace.
 
 __Comment tester le programme ?__
 
