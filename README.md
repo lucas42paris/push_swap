@@ -1,5 +1,28 @@
 # push_swap
 
+🇺🇸
+
+The push_swap project is an algorithmic challenge that involves sorting data into a stack using a limited set of instructions.  
+The game consists of two stacks, a and b, where a contains a series of non-duplicate random numbers and b is initially empty.
+
+The goal is to sort the numbers in stack a in ascending order using a number of specified operations.  
+These operations include swap, push, rotate, and reverse rotate which can be applied to either stack or both at the same time.
+
+The push_swap program takes as a parameter the stack a in the form of a list of integers. It must then display the shortest sequence of instructions which will make it possible to sort the stack a. Sorting efficiency is judged by the number of instructions used.
+
+The code must respect the Norm imposed by 42 (see pdf).
+
+__Important concepts__ :
+
+* Implementation of linked lists.
+* Build a fast and efficient sorting algorithm.
+
+__How to test the program?__
+
+* Execute the `make` command at the root of the directory.
+* Then enter a list of integers to sort. For example `./push_swap 1243 432 32`
+* The result corresponds to the sequence of instructions allowing the fastest and most efficient sorting of the given list of integers.
+
 🇫🇷
 
 Le projet push_swap est un défi d'algorithmie qui implique de trier des données dans une pile en utilisant un ensemble limité d’instructions.
@@ -23,28 +46,5 @@ __Comment tester le programme ?__
 * Exécuter la commande `make` à la racine du répertoire.
 * Puis entrer une liste d’entiers à trier. Par exemple `./push_swap 1243 432 32`
 * Le résultat correspond à la suite d’instructions permettant de trier le plus rapidement et efficacement la liste d’entiers donnée.
-
-🇺🇸
-
-The push_swap project is an algorithmic challenge that involves sorting data into a stack using a limited set of instructions.  
-The game consists of two stacks, a and b, where a contains a series of non-duplicate random numbers and b is initially empty.
-
-The goal is to sort the numbers in stack a in ascending order using a number of specified operations.  
-These operations include swap, push, rotate, and reverse rotate which can be applied to either stack or both at the same time.
-
-The push_swap program takes as a parameter the stack a in the form of a list of integers. It must then display the shortest sequence of instructions which will make it possible to sort the stack a. Sorting efficiency is judged by the number of instructions used.
-
-The code must respect the Norm imposed by 42 (see pdf).
-
-__Important concepts__ :
-
-* Implementation of linked lists.
-* Build a fast and efficient sorting algorithm.
-
-__How to test the program?__
-
-* Execute the `make` command at the root of the directory.
-* Then enter a list of integers to sort. For example `./push_swap 1243 432 32`
-* The result corresponds to the sequence of instructions allowing the fastest and most efficient sorting of the given list of integers.
 
 ![Rating](rating.png)
